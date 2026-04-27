@@ -302,3 +302,13 @@ tr:hover {
 .borderRBL {
     background-color: #4D5667 !important;
 }
+
+.header {
+    position: relative;
+    color: #fff;
+    display: block;
+    width: 1060px;
+    height: 70px;
+    margin: 0 auto;
+    right: 15%;
+}
