@@ -245,15 +245,15 @@ tr:hover {
 }
 
 .cover-block {
-    background-image: url();
+    background-image: url(https://raw.githubusercontent.com/Vizz77/MyAnimeList-List-layout/07c83baa70ecc81f8eb7d216af1b96a982f456d4/asset/main_character_cutout.svg);
 }
 
 .cover-block .image-container img {
-    visibility : visible;
+    display: none;
 }
 
 .cover-block .image-container {
-   visibility : visible;
+   display: none;
 }
 
 .initialize-tutorial {
